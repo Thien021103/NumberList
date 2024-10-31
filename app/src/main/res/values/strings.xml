@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleNumberList</string>
+    <string name="enter_number_n">Enter number n</string>
+</resources>
